@@ -1,0 +1,10 @@
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\bin\Debug\VisualizadorImagens.exe.config
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\bin\Debug\VisualizadorImagens.exe
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\bin\Debug\VisualizadorImagens.pdb
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.csproj.AssemblyReference.cache
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.FrmPrincipal.resources
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.Properties.Resources.resources
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.csproj.GenerateResource.cache
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.csproj.CoreCompileInputs.cache
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.exe
+C:\Users\joao.mmfornazieri\source\repos\VisualizadorImagens\obj\Debug\VisualizadorImagens.pdb
